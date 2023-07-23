@@ -6943,7 +6943,7 @@ PrefabInstance:
     - target: {fileID: 8041230981999114576, guid: bac72abb5fa024dea9d65f5e68ada7c3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.95
+      value: 0.93
       objectReference: {fileID: 0}
     - target: {fileID: 8041230981999114576, guid: bac72abb5fa024dea9d65f5e68ada7c3,
         type: 3}
@@ -6984,6 +6984,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8041230981999114577, guid: bac72abb5fa024dea9d65f5e68ada7c3,
+        type: 3}
+      propertyPath: prewarm
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8041230981999114577, guid: bac72abb5fa024dea9d65f5e68ada7c3,
+        type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 8041230981999114578, guid: bac72abb5fa024dea9d65f5e68ada7c3,
         type: 3}
